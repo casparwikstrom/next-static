@@ -1,5 +1,5 @@
 import { tw } from 'twind';
-import Button from '@/components/button';
+/* import Button from '@/components/button'; */
 
 const productLinks = [``];
 const aboutLinks = [``];

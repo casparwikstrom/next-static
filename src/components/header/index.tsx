@@ -1,5 +1,5 @@
 import { tw, css } from 'twind/css';
-import Button from '@/components/button';
+/* import Button from '@/components/button'; */
 import Netlify from '@/constants/svg/netlify.svg';
 import Nike from '@/constants/svg/nike.svg';
 import Figma from '@/constants/svg/figma.svg';

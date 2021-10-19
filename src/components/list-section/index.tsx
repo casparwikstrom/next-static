@@ -4,27 +4,33 @@ import FeatureSvg from '@/constants/svg/features.svg';
 const listItems = [
   {
     title: `Set KPIs`,
-    description: `What are your goals and objectives? What do you want to achieve with the budget allocated towards Influencers? Within which core markets? We will focus your Influencer Marketing Campaign based on your vision, mission and achieving the goals you set.`,
+    description: `What are your goals and objectives? What do you want to achieve with the budget allocated towards Influencers? 
+    Within which core markets? We will focus your Influencer Marketing Campaign based on your vision, mission and achieving the goals you set.`,
   },
   {
     title: `TARGET AUDIENCE`,
-    description: `Who are your targeted customers in terms of gender, age and market? What are their interests? Which social media do they use? Our influencer marketing agency will help define this personas in order to create influencer marketing campaigns that reach the right target audience.`,
+    description: `Who are your targeted customers in terms of gender, age and market? What are their interests? Which social media do they 
+    use? Our influencer marketing agency will help define this personas in order to create influencer marketing campaigns that reach the right target audience.`,
   },
   {
     title: `INFLUENCER IDENTIFICATION`,
-    description: `Our influencer marketing agency will be able to match your target audience with the relevant influencers. Our clients have full access to the influencers’ target demographics and can see which ones are the perfect ones for their Influencer Marketing Campaigns.`,
+    description: `Our influencer marketing agency will be able to match your target audience with the relevant influencers. Our clients have 
+    full access to the influencers’ target demographics and can see which ones are the perfect ones for their Influencer Marketing Campaigns.`,
   },
   {
     title: `CONTRACTING INFLUENCERS`,
-    description: `The relationship between you and an Influencer has to involve a legal agreement where the Influencers know their rights and obligations. We will take care of having each Influencer that will be part of your Campaign sign an agreement and commit to the deliverables.`,
+    description: `The relationship between you and an Influencer has to involve a legal agreement where the Influencers know their rights and 
+    obligations. We will take care of having each Influencer that will be part of your Campaign sign an agreement and commit to the deliverables.`,
   },
   {
     title: `CONTENT CREATION`,
-    description: `In order to make any Influencer Campaign successful, you cannot just rely on the Influencers following, you need to think how to best engage with their users. We will help you create concepts and content that will make the Influencers followers interact with.`,
+    description: `In order to make any Influencer Campaign successful, you cannot just rely on the Influencers following, you need to think how 
+    to best engage with their users. We will help you create concepts and content that will make the Influencers followers interact with.`,
   },
   {
     title: `TRACKING RESULTS`,
-    description: `Tracking results is the most important thing to do when you want to understand the success of an Influencer Marketing campaign. We will put in place tracking pixels and tools that will provide you extensive reporting and tangible metrics for any of the activities.`,
+    description: `Tracking results is the most important thing to do when you want to understand the success of an Influencer Marketing campaign. 
+    We will put in place tracking pixels and tools that will provide you extensive reporting and tangible metrics for any of the activities.`,
   },
 ];
 
